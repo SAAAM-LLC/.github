@@ -16,7 +16,7 @@
 ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Breaking+The+Rules+of+AI+Development;True+Living+Memory+⚡️;Quantum-Resonant+Neural+Architecture;No+Tokenizers.+No+Limits.+No+Bullshit.;SAAAM+Outlaw+Intelligence+Ecosystem;Rewriting+the+Future+of+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Breaking+The+Rules+of+AI+Development;True+Living+Memory;Neural+Architecture;No+Tokenizers.+No+Limits.+No+Bullshit.;SAAAM+Outlaw+Intelligence+Ecosystem;Rewriting+the+Future+of+AI" alt="Typing SVG" />
 
 <svg height="30" width="400">
   <polyline points="0,15 30,10 50,20 70,5 100,27 140,2 180,25 220,12 300,27 400,13"

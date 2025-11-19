@@ -17,6 +17,7 @@
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Solo+dev+running+SAAAM LLC;Started+One+Year+ago+(NOV'2024)');Breaking+The+Rules+of+AI+Development;I+dont+ask+I=DO" alt="Typing SVG" />
+
 [![Innovation Level](https://img.shields.io/badge/Innovation-Unhinged-ff6b6b)]()
 [![Status](https://img.shields.io/badge/Status-Actively%20Breaking%20Things-orange)]()
 

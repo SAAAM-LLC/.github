@@ -1,3 +1,7 @@
+<div align="center">
+
+<img width="1536" height="245" alt="image" src="https://github.com/user-attachments/assets/356194a2-fd15-4be7-89d0-c83385471d6d" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=500&size=18&duration=100&pause=984&color=09A41A&center=true&random=true&width=900&height=40&lines=Markets%3A+Edge+AI%2C+Research%2C+Enterprise+Automation%2C+Gaming%2C+Quantum+Computing;Interpretable%3A+Explicit+events%2C+concepts%2C+reasoning+traces.;Self-Evolving%3A+Models+improve+architecture.;Deep+learning+framework+using+%7B-1%2C0%2C1%7D+arithmetic.;**Framework-free.+No+tokens.+No+tokenizing+No+limits.+No+bullshit.**;6%2B+million+lines+of+code.+10%2B+SAM+implementations.+Proven+benchmarks.;SAAAM+LLC+is+NOT+a+typical+AI+company.+This+is+fundamental+research+disguised+as+a+startup.;10%2B+complete+AI+architectures;Multiple+OS+implementations;Game+engines%2C+metaverse+engines%2C+reality+engines;Quantum+computing+integration;Every+line+challenges+transformer+orthodoxy;Framework+independence+%7C+universal+deployment;Self-evolution+without+meta-learning;Complete+transparency+in+reasoning;SARRAY+-+NumPy+replacement)](https://git.io/typing-svg)
 
 <div align="center">
@@ -17,16 +21,6 @@
   ██║██║ ╚████║   ██║   ███████╗███████╗███████╗██║╚██████╔╝███████╗██║ ╚████║╚██████╗███████╗
   ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Breaking+The+Barriers+of+Intelligence+Development;True+Living+Memory;Neural+Architecture;No+Tokenizers.+No+Limits.+No+Bullshit.;SAAAM+Intelligence+Ecosystem;Rewriting+the+Future+of+AI;First+Principles;%100+Novel+Architectures.;No+Transformers+No+Spacy.;We+Just+Get+Shit+Done!" alt="Typing SVG" />
-
-<svg height="20" width="400">
-  <polyline points="0,15 30,10 50,20 70,5 100,27 140,2 180,25 220,12 300,27 400,13"
-    style="fill:none;stroke:#ff6b6b;stroke-width:3" />
-  <text x="150" y="27" fill="#0ea5e9" font-size="15" font-family="Fira Code" font-weight="bold">
-    SAAAM-INTELLIGENCE.COM
-  </text>
-</svg>
 
 [![Innovation Level](https://img.shields.io/badge/Innovation-Unhinged-ff6b6b?style=for-the-badge&logo=rocket)]()
 [![Status](https://img.shields.io/badge/Status-Actively%20Breaking%20Things-orange?style=for-the-badge&logo=fire)]()
@@ -60,13 +54,13 @@
 
 ---
 
-## **WHO WE ARE**
+## **WHO I ARE**
 
 Building Intelligence from Arkansas Innovating bleeding edge AI research — SAAAM LLC isn't your typical startup. We're a one-man army (with AI itself as my partner-in-crime building its predecessor) Architectures that make the industry's "state of the art" look like training wheels.
 
 ** Little over 1 year. 6+ million lines of code. Zero compromises.**
 
-We don't iterate. **We obliterate boundaries.**
+I don't iterate. **We obliterate boundaries.**
 
 <div align="center">
 
@@ -163,7 +157,7 @@ Just pure, unfiltered **SAAAM INTELLIGENCE**.
 
 ---
 
-## 🎨 **CURRENT PROJECTS**
+## **CURRENT PROJECTS**
 
 <details open>
 <summary><b>SAM AWAKENING PROTOCOL</b></summary>
@@ -328,3 +322,4 @@ We're in the sticks, building the future one CUDA kernel at a time.
 
 </div>
 ```
+

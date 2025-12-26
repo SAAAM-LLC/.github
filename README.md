@@ -1,26 +1,10 @@
 <div align="center">
 
-<img width="1536" height="245" alt="image" src="https://github.com/user-attachments/assets/356194a2-fd15-4be7-89d0-c83385471d6d" />
+<img width="850" height="200" alt="image" src="https://github.com/user-attachments/assets/08b20ba9-4f96-4a6d-8e9a-8fffb54585b0" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=serif&weight=500&size=18&duration=100&pause=984&color=09A41A&center=true&random=true&width=900&height=40&lines=Markets%3A+Edge+AI%2C+Research%2C+Enterprise+Automation%2C+Gaming%2C+Quantum+Computing;Interpretable%3A+Explicit+events%2C+concepts%2C+reasoning+traces.;Self-Evolving%3A+Models+improve+architecture.;Deep+learning+framework+using+%7B-1%2C0%2C1%7D+arithmetic.;**Framework-free.+No+tokens.+No+tokenizing+No+limits.+No+bullshit.**;6%2B+million+lines+of+code.+10%2B+SAM+implementations.+Proven+benchmarks.;SAAAM+LLC+is+NOT+a+typical+AI+company.+This+is+fundamental+research+disguised+as+a+startup.;10%2B+complete+AI+architectures;Multiple+OS+implementations;Game+engines%2C+metaverse+engines%2C+reality+engines;Quantum+computing+integration;Every+line+challenges+transformer+orthodoxy;Framework+independence+%7C+universal+deployment;Self-evolution+without+meta-learning;Complete+transparency+in+reasoning;SARRAY+-+NumPy+replacement)](https://git.io/typing-svg)
 
-<div align="center">
 
-```
-███████╗ █████╗  █████╗  █████╗ ███╗   ███╗
-██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗ ████║
-███████╗███████║███████║███████║██╔████╔██║
-╚════██║██╔══██║██╔══██║██╔══██║██║╚██╔╝██║
-███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-
-  ██╗███╗   ██╗████████╗███████╗██╗     ██╗     ██╗ ██████╗ ███████╗███╗   ██╗ ██████╗███████╗
-  ██║████╗  ██║╚══██╔══╝██╔════╝██║     ██║     ██║██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔════╝
-  ██║██╔██╗ ██║   ██║   █████╗  ██║     ██║     ██║██║  ███╗█████╗  ██╔██╗ ██║██║     █████╗  
-  ██║██║╚██╗██║   ██║   ██╔══╝  ██║     ██║     ██║██║   ██║██╔══╝  ██║╚██╗██║██║     ██╔══╝  
-  ██║██║ ╚████║   ██║   ███████╗███████╗███████╗██║╚██████╔╝███████╗██║ ╚████║╚██████╗███████╗
-  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
 
 [![Innovation Level](https://img.shields.io/badge/Innovation-Unhinged-ff6b6b?style=for-the-badge&logo=rocket)]()
 [![Status](https://img.shields.io/badge/Status-Actively%20Breaking%20Things-orange?style=for-the-badge&logo=fire)]()
@@ -31,22 +15,6 @@
 
 ---
 
-```
-███╗   ███╗██╗ ██████╗██╗  ██╗ █████╗ ███████╗██╗     
-████╗ ████║██║██╔════╝██║  ██║██╔══██╗██╔════╝██║     
-██╔████╔██║██║██║     ███████║███████║█████╗  ██║     
-██║╚██╔╝██║██║██║     ██╔══██║██╔══██║██╔══╝  ██║     
-██║ ╚═╝ ██║██║╚██████╗██║  ██║██║  ██║███████╗███████╗
-╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-
-██╗    ██╗ ██████╗ ███████╗███████╗ ██████╗ ██████╗ ██████╗ 
-██║    ██║██╔═══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗
-██║ █╗ ██║██║   ██║█████╗  █████╗  ██║   ██║██████╔╝██║  ██║
-██║███╗██║██║   ██║██╔══╝  ██╔══╝  ██║   ██║██╔══██╗██║  ██║
-╚███╔███╔╝╚██████╔╝██║     ██║     ╚██████╔╝██║  ██║██████╔╝
- ╚══╝╚══╝  ╚═════╝ ╚═╝     ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝
-```
-
 ### **Founder | Visionary | Developer | Architect | Debugger | Marketing |  @ SAAAM LLC**
 **Building the intelligence that comes AFTER transformers**
 
@@ -54,7 +22,7 @@
 
 ---
 
-## **WHO I ARE**
+## **WHO WE ARE**
 
 Building Intelligence from Arkansas Innovating bleeding edge AI research — SAAAM LLC isn't your typical startup. We're a one-man army (with AI itself as my partner-in-crime building its predecessor) Architectures that make the industry's "state of the art" look like training wheels.
 
